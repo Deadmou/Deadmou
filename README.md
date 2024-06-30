@@ -1,4 +1,4 @@
-[![Header](https://github.com/Deadmou/deadmou/blob/main/assets/neon-grid.jpg)]
+![Header](https://github.com/Deadmou/deadmou/blob/main/assets/neon-grid.jpg)
 
 About me
 
