@@ -12,14 +12,25 @@
     Создание и поддержка тестовой документации.
     Участие в ежедневных скрам-митингах и планировании спринтов.
 
-Опыт работы
+# Опыт работы
 
 QA Engineer
 Период работы: июль 2022 – декабрь 2023
 
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lastxaust@gmail.com)
 
+## Умею
+
+— Кейсы и чеклисты ([ссылка на пример](https://github.com/Deadmou/CheckList))
+
 ---
+
+## Навыки
+
+— SQL (LEFT OUTER JOIN, INNER JOIN, вложенные запросы)
+
+---
+
 ### Социальные сети:
 
   <div id="badges">
@@ -60,5 +71,3 @@ QA Engineer
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
-
----
