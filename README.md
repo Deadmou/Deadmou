@@ -25,16 +25,16 @@ QA Engineer
 
 ## Умею
 
-—  Чеклисты ([ссылка на пример](https://github.com/Deadmou/CheckList))
-—  Тест-кейсы ([ссылка на пример](https://github.com/Deadmou/TestCase))
+# — Чеклисты ([ссылка на пример](https://github.com/Deadmou/CheckList))
+# — Тест-кейсы ([ссылка на пример](https://github.com/Deadmou/TestCase))
 
 ---
 
 ## Навыки
 
-— SQL (LEFT OUTER JOIN, INNER JOIN, вложенные запросы)&nbsp
-— Git (pull, commit, push)&nbsp
-— Web (отличаю 404 от 501, не путаю местами POST и PUT)
+# — SQL (LEFT OUTER JOIN, INNER JOIN, вложенные запросы)
+# — Git (pull, commit, push)
+# — Web (отличаю 404 от 501, не путаю местами POST и PUT)
 
 ---
 
