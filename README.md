@@ -32,8 +32,8 @@ QA Engineer
 
 ## Навыки
 
-— SQL (LEFT OUTER JOIN, INNER JOIN, вложенные запросы)
-— Git(pull, commit, push)
+— SQL (LEFT OUTER JOIN, INNER JOIN, вложенные запросы)&nbsp
+— Git (pull, commit, push)&nbsp
 — Web (отличаю 404 от 501, не путаю местами POST и PUT)
 
 ---
